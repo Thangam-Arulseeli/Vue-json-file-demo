@@ -1,10 +1,20 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/"> Job Details </router-link> |
+    <router-link to="/jobdetailcomp"> Jobs Using Components  </router-link> |
+    <router-link to="/customer"> Customer Details Using Axios </router-link>
   </nav>
   <router-view/>
+  <!-- <Job></Job> -->
 </template>
+
+<script>
+  //import Job from './components/Job.vue';
+
+  //export default{
+    //components: { Job }
+  //}
+</script>
 
 <style>
 #app {

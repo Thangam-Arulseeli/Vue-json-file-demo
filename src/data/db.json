@@ -1,0 +1,86 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "dept": "HR",
+      "desig": "Manager",
+      "location": "Chennai"
+    },
+    {
+      "id": 2,
+      "dept": "Sales",
+      "desig": "Executive",
+      "location": "Coimbatore"
+    },
+    {
+      "id": 3,
+      "dept": "Sales",
+      "desig": "Supervisor",
+      "location": "Coimbatore"
+    },
+    {
+      "id": 4,
+      "dept": "HR",
+      "desig": "Assistant",
+      "location": "Chennai"
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Manahar"
+    },
+    {
+      "id": 2,
+      "name": "Juliet"
+    },
+    {
+      "id": 3,
+      "name": "Suresh"
+    },
+    {
+      "id": 4,
+      "name": "John"
+    },
+    {
+      "id": 5,
+      "name": "Femina"
+    },
+    {
+      "name": "Leela",
+      "id": 6
+    },
+    {
+      "name": "Peter",
+      "id": 7
+    },
+    {
+      "name": "Titus",
+      "id": 8
+    },
+    {
+      "name": "Rubus",
+      "id": 9
+    },
+    {
+      "name": "Harishmitha",
+      "id": 10
+    },
+    {
+      "name": "Manohari",
+      "id": 11
+    },
+    {
+      "name": "Uma",
+      "id": 12
+    },
+    {
+      "name": "Selvin",
+      "id": 13
+    },
+    {
+      "name": "fdfdfdf",
+      "id": 14
+    }
+  ]
+}
